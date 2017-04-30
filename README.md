@@ -2,4 +2,4 @@
 Rotarty selection mechanism. 
 Useful for VR.
 
-![gif](http://i.imgur.com/Cu9ZQ.gif)
+![gif](http://i.imgur.com/1YBqJEW.gif)
